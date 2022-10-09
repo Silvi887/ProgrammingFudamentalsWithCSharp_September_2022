@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\bin\Debug\net5.0\4PrintAndSum.exe
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\bin\Debug\net5.0\4PrintAndSum.deps.json
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\bin\Debug\net5.0\4PrintAndSum.runtimeconfig.json
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\bin\Debug\net5.0\4PrintAndSum.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\bin\Debug\net5.0\4PrintAndSum.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\bin\Debug\net5.0\4PrintAndSum.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\obj\Debug\net5.0\4PrintAndSum.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\obj\Debug\net5.0\4PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\obj\Debug\net5.0\4PrintAndSum.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\obj\Debug\net5.0\4PrintAndSum.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\obj\Debug\net5.0\4PrintAndSum.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\obj\Debug\net5.0\4PrintAndSum.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\obj\Debug\net5.0\refint\4PrintAndSum.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\obj\Debug\net5.0\4PrintAndSum.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\obj\Debug\net5.0\4PrintAndSum.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\4PrintAndSum\obj\Debug\net5.0\ref\4PrintAndSum.dll

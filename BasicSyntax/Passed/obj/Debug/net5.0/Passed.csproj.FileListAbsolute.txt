@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\bin\Debug\net5.0\Passed.exe
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\bin\Debug\net5.0\Passed.deps.json
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\bin\Debug\net5.0\Passed.runtimeconfig.json
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\bin\Debug\net5.0\Passed.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\bin\Debug\net5.0\Passed.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\bin\Debug\net5.0\Passed.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\obj\Debug\net5.0\Passed.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\obj\Debug\net5.0\Passed.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\obj\Debug\net5.0\Passed.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\obj\Debug\net5.0\Passed.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\obj\Debug\net5.0\Passed.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\obj\Debug\net5.0\Passed.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\obj\Debug\net5.0\refint\Passed.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\obj\Debug\net5.0\Passed.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\obj\Debug\net5.0\Passed.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\Passed\obj\Debug\net5.0\ref\Passed.dll

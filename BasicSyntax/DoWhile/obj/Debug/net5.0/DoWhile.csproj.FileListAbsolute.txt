@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\bin\Debug\net5.0\DoWhile.exe
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\bin\Debug\net5.0\DoWhile.deps.json
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\bin\Debug\net5.0\DoWhile.runtimeconfig.json
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\bin\Debug\net5.0\DoWhile.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\bin\Debug\net5.0\DoWhile.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\bin\Debug\net5.0\DoWhile.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\obj\Debug\net5.0\DoWhile.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\obj\Debug\net5.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\obj\Debug\net5.0\DoWhile.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\obj\Debug\net5.0\DoWhile.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\obj\Debug\net5.0\DoWhile.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\obj\Debug\net5.0\DoWhile.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\obj\Debug\net5.0\refint\DoWhile.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\obj\Debug\net5.0\DoWhile.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\obj\Debug\net5.0\DoWhile.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\DoWhile\obj\Debug\net5.0\ref\DoWhile.dll

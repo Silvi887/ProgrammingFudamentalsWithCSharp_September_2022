@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\bin\Debug\net5.0\Division.exe
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\bin\Debug\net5.0\Division.deps.json
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\bin\Debug\net5.0\Division.runtimeconfig.json
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\bin\Debug\net5.0\Division.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\bin\Debug\net5.0\Division.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\bin\Debug\net5.0\Division.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\obj\Debug\net5.0\Division.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\obj\Debug\net5.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\obj\Debug\net5.0\Division.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\obj\Debug\net5.0\Division.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\obj\Debug\net5.0\Division.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\obj\Debug\net5.0\Division.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\obj\Debug\net5.0\refint\Division.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\obj\Debug\net5.0\Division.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\obj\Debug\net5.0\Division.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\Division\obj\Debug\net5.0\ref\Division.dll

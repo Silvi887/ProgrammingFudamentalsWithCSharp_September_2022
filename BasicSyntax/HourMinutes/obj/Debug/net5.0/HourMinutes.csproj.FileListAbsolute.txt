@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\bin\Debug\net5.0\HourMinutes.exe
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\bin\Debug\net5.0\HourMinutes.deps.json
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\bin\Debug\net5.0\HourMinutes.runtimeconfig.json
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\bin\Debug\net5.0\HourMinutes.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\bin\Debug\net5.0\HourMinutes.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\bin\Debug\net5.0\HourMinutes.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\obj\Debug\net5.0\HourMinutes.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\obj\Debug\net5.0\HourMinutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\obj\Debug\net5.0\HourMinutes.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\obj\Debug\net5.0\HourMinutes.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\obj\Debug\net5.0\HourMinutes.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\obj\Debug\net5.0\HourMinutes.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\obj\Debug\net5.0\refint\HourMinutes.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\obj\Debug\net5.0\HourMinutes.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\obj\Debug\net5.0\HourMinutes.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\HourMinutes\obj\Debug\net5.0\ref\HourMinutes.dll

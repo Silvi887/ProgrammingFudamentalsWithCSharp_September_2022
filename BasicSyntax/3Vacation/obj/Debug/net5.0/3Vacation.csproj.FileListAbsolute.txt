@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\bin\Debug\net5.0\3Vacation.exe
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\bin\Debug\net5.0\3Vacation.deps.json
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\bin\Debug\net5.0\3Vacation.runtimeconfig.json
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\bin\Debug\net5.0\3Vacation.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\bin\Debug\net5.0\3Vacation.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\bin\Debug\net5.0\3Vacation.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\obj\Debug\net5.0\3Vacation.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\obj\Debug\net5.0\3Vacation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\obj\Debug\net5.0\3Vacation.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\obj\Debug\net5.0\3Vacation.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\obj\Debug\net5.0\3Vacation.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\obj\Debug\net5.0\3Vacation.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\obj\Debug\net5.0\refint\3Vacation.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\obj\Debug\net5.0\3Vacation.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\obj\Debug\net5.0\3Vacation.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\3Vacation\obj\Debug\net5.0\ref\3Vacation.dll

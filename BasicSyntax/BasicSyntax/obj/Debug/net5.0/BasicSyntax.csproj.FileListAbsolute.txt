@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\bin\Debug\net5.0\BasicSyntax.exe
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\bin\Debug\net5.0\BasicSyntax.deps.json
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\bin\Debug\net5.0\BasicSyntax.runtimeconfig.json
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\bin\Debug\net5.0\BasicSyntax.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\bin\Debug\net5.0\BasicSyntax.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\bin\Debug\net5.0\BasicSyntax.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\obj\Debug\net5.0\BasicSyntax.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\obj\Debug\net5.0\BasicSyntax.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\obj\Debug\net5.0\BasicSyntax.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\obj\Debug\net5.0\BasicSyntax.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\obj\Debug\net5.0\BasicSyntax.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\obj\Debug\net5.0\BasicSyntax.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\obj\Debug\net5.0\refint\BasicSyntax.dll
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\obj\Debug\net5.0\BasicSyntax.pdb
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\obj\Debug\net5.0\BasicSyntax.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\BasicSyntax\BasicSyntax\obj\Debug\net5.0\ref\BasicSyntax.dll
