@@ -1,0 +1,15 @@
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\bin\Debug\net5.0\9Spice.exe
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\bin\Debug\net5.0\9Spice.deps.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\bin\Debug\net5.0\9Spice.runtimeconfig.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\bin\Debug\net5.0\9Spice.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\bin\Debug\net5.0\9Spice.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\bin\Debug\net5.0\ref\9Spice.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\bin\Debug\net5.0\9Spice.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\obj\Debug\net5.0\9Spice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\obj\Debug\net5.0\9Spice.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\obj\Debug\net5.0\9Spice.AssemblyInfo.cs
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\obj\Debug\net5.0\9Spice.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\obj\Debug\net5.0\9Spice.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\obj\Debug\net5.0\ref\9Spice.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\obj\Debug\net5.0\9Spice.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\9Spice\obj\Debug\net5.0\9Spice.genruntimeconfig.cache

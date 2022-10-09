@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\bin\Debug\net5.0\02FromLefttoThe Right.exe
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\bin\Debug\net5.0\02FromLefttoThe Right.deps.json
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\bin\Debug\net5.0\02FromLefttoThe Right.runtimeconfig.json
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\bin\Debug\net5.0\02FromLefttoThe Right.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\bin\Debug\net5.0\02FromLefttoThe Right.dll
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\bin\Debug\net5.0\02FromLefttoThe Right.pdb
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\obj\Debug\net5.0\02FromLefttoThe Right.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\obj\Debug\net5.0\02FromLefttoThe Right.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\obj\Debug\net5.0\02FromLefttoThe Right.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\obj\Debug\net5.0\02FromLefttoThe Right.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\obj\Debug\net5.0\02FromLefttoThe Right.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\obj\Debug\net5.0\02FromLefttoThe Right.dll
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\obj\Debug\net5.0\refint\02FromLefttoThe Right.dll
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\obj\Debug\net5.0\02FromLefttoThe Right.pdb
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\obj\Debug\net5.0\02FromLefttoThe Right.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\DataTypesandVariables\02FromLefttoThe Right\obj\Debug\net5.0\ref\02FromLefttoThe Right.dll

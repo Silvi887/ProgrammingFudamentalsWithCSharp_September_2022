@@ -1,0 +1,16 @@
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\bin\Debug\net5.0\3FloatingEquality.exe
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\bin\Debug\net5.0\3FloatingEquality.deps.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\bin\Debug\net5.0\3FloatingEquality.runtimeconfig.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\bin\Debug\net5.0\3FloatingEquality.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\bin\Debug\net5.0\3FloatingEquality.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\bin\Debug\net5.0\ref\3FloatingEquality.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\bin\Debug\net5.0\3FloatingEquality.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\obj\Debug\net5.0\3FloatingEquality.csprojAssemblyReference.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\obj\Debug\net5.0\3FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\obj\Debug\net5.0\3FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\obj\Debug\net5.0\3FloatingEquality.AssemblyInfo.cs
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\obj\Debug\net5.0\3FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\obj\Debug\net5.0\3FloatingEquality.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\obj\Debug\net5.0\ref\3FloatingEquality.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\obj\Debug\net5.0\3FloatingEquality.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\3FloatingEquality\obj\Debug\net5.0\3FloatingEquality.genruntimeconfig.cache

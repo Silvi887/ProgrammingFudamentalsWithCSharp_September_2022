@@ -1,0 +1,15 @@
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\bin\Debug\net5.0\5Decrypting_Message.exe
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\bin\Debug\net5.0\5Decrypting_Message.deps.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\bin\Debug\net5.0\5Decrypting_Message.runtimeconfig.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\bin\Debug\net5.0\5Decrypting_Message.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\bin\Debug\net5.0\5Decrypting_Message.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\bin\Debug\net5.0\ref\5Decrypting_Message.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\bin\Debug\net5.0\5Decrypting_Message.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\obj\Debug\net5.0\5Decrypting_Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\obj\Debug\net5.0\5Decrypting_Message.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\obj\Debug\net5.0\5Decrypting_Message.AssemblyInfo.cs
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\obj\Debug\net5.0\5Decrypting_Message.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\obj\Debug\net5.0\5Decrypting_Message.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\obj\Debug\net5.0\ref\5Decrypting_Message.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\obj\Debug\net5.0\5Decrypting_Message.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5Decrypting_Message\obj\Debug\net5.0\5Decrypting_Message.genruntimeconfig.cache

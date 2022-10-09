@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\bin\Debug\net5.0\10Pokeman.exe
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\bin\Debug\net5.0\10Pokeman.deps.json
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\bin\Debug\net5.0\10Pokeman.runtimeconfig.json
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\bin\Debug\net5.0\10Pokeman.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\bin\Debug\net5.0\10Pokeman.dll
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\bin\Debug\net5.0\10Pokeman.pdb
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\obj\Debug\net5.0\10Pokeman.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\obj\Debug\net5.0\10Pokeman.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\obj\Debug\net5.0\10Pokeman.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\obj\Debug\net5.0\10Pokeman.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\obj\Debug\net5.0\10Pokeman.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\obj\Debug\net5.0\10Pokeman.dll
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\obj\Debug\net5.0\refint\10Pokeman.dll
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\obj\Debug\net5.0\10Pokeman.pdb
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\obj\Debug\net5.0\10Pokeman.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\DataTypesandVariables\10Pokeman\obj\Debug\net5.0\ref\10Pokeman.dll

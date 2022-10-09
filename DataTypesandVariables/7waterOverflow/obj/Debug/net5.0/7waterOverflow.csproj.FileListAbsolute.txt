@@ -1,0 +1,16 @@
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\bin\Debug\net5.0\7waterOverflow.exe
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\bin\Debug\net5.0\7waterOverflow.deps.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\bin\Debug\net5.0\7waterOverflow.runtimeconfig.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\bin\Debug\net5.0\7waterOverflow.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\bin\Debug\net5.0\7waterOverflow.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\bin\Debug\net5.0\ref\7waterOverflow.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\bin\Debug\net5.0\7waterOverflow.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\obj\Debug\net5.0\7waterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\obj\Debug\net5.0\7waterOverflow.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\obj\Debug\net5.0\7waterOverflow.AssemblyInfo.cs
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\obj\Debug\net5.0\7waterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\obj\Debug\net5.0\7waterOverflow.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\obj\Debug\net5.0\ref\7waterOverflow.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\obj\Debug\net5.0\7waterOverflow.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\obj\Debug\net5.0\7waterOverflow.genruntimeconfig.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\7waterOverflow\obj\Debug\net5.0\7waterOverflow.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\bin\Debug\net5.0\2FromLeftToRight.exe
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\bin\Debug\net5.0\2FromLeftToRight.deps.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\bin\Debug\net5.0\2FromLeftToRight.runtimeconfig.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\bin\Debug\net5.0\2FromLeftToRight.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\bin\Debug\net5.0\2FromLeftToRight.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\bin\Debug\net5.0\ref\2FromLeftToRight.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\bin\Debug\net5.0\2FromLeftToRight.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\obj\Debug\net5.0\2FromLeftToRight.csprojAssemblyReference.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\obj\Debug\net5.0\2FromLeftToRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\obj\Debug\net5.0\2FromLeftToRight.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\obj\Debug\net5.0\2FromLeftToRight.AssemblyInfo.cs
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\obj\Debug\net5.0\2FromLeftToRight.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\obj\Debug\net5.0\2FromLeftToRight.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\obj\Debug\net5.0\ref\2FromLeftToRight.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\obj\Debug\net5.0\2FromLeftToRight.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\2FromLeftToRight\obj\Debug\net5.0\2FromLeftToRight.genruntimeconfig.cache

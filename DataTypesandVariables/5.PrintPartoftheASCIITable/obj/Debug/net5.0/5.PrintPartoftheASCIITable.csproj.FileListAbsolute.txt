@@ -1,0 +1,16 @@
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\bin\Debug\net5.0\5.PrintPartoftheASCIITable.exe
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\bin\Debug\net5.0\5.PrintPartoftheASCIITable.deps.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\bin\Debug\net5.0\5.PrintPartoftheASCIITable.runtimeconfig.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\bin\Debug\net5.0\5.PrintPartoftheASCIITable.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\bin\Debug\net5.0\5.PrintPartoftheASCIITable.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\bin\Debug\net5.0\ref\5.PrintPartoftheASCIITable.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\bin\Debug\net5.0\5.PrintPartoftheASCIITable.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\obj\Debug\net5.0\5.PrintPartoftheASCIITable.csprojAssemblyReference.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\obj\Debug\net5.0\5.PrintPartoftheASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\obj\Debug\net5.0\5.PrintPartoftheASCIITable.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\obj\Debug\net5.0\5.PrintPartoftheASCIITable.AssemblyInfo.cs
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\obj\Debug\net5.0\5.PrintPartoftheASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\obj\Debug\net5.0\5.PrintPartoftheASCIITable.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\obj\Debug\net5.0\ref\5.PrintPartoftheASCIITable.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\obj\Debug\net5.0\5.PrintPartoftheASCIITable.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\5.PrintPartoftheASCIITable\obj\Debug\net5.0\5.PrintPartoftheASCIITable.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\bin\Debug\net5.0\4SumChars.exe
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\bin\Debug\net5.0\4SumChars.deps.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\bin\Debug\net5.0\4SumChars.runtimeconfig.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\bin\Debug\net5.0\4SumChars.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\bin\Debug\net5.0\4SumChars.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\bin\Debug\net5.0\ref\4SumChars.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\bin\Debug\net5.0\4SumChars.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\obj\Debug\net5.0\4SumChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\obj\Debug\net5.0\4SumChars.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\obj\Debug\net5.0\4SumChars.AssemblyInfo.cs
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\obj\Debug\net5.0\4SumChars.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\obj\Debug\net5.0\4SumChars.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\obj\Debug\net5.0\ref\4SumChars.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\obj\Debug\net5.0\4SumChars.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\obj\Debug\net5.0\4SumChars.genruntimeconfig.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\4SumChars\obj\Debug\net5.0\4SumChars.csprojAssemblyReference.cache

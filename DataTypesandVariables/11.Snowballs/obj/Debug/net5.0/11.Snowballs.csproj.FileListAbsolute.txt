@@ -1,0 +1,15 @@
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\bin\Debug\net5.0\11.Snowballs.exe
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\bin\Debug\net5.0\11.Snowballs.deps.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\bin\Debug\net5.0\11.Snowballs.runtimeconfig.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\bin\Debug\net5.0\11.Snowballs.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\bin\Debug\net5.0\11.Snowballs.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\bin\Debug\net5.0\ref\11.Snowballs.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\bin\Debug\net5.0\11.Snowballs.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\obj\Debug\net5.0\11.Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\obj\Debug\net5.0\11.Snowballs.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\obj\Debug\net5.0\11.Snowballs.AssemblyInfo.cs
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\obj\Debug\net5.0\11.Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\obj\Debug\net5.0\11.Snowballs.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\obj\Debug\net5.0\ref\11.Snowballs.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\obj\Debug\net5.0\11.Snowballs.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\11.Snowballs\obj\Debug\net5.0\11.Snowballs.genruntimeconfig.cache

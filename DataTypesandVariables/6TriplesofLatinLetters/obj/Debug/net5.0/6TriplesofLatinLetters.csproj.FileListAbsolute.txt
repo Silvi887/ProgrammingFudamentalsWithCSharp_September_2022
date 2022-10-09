@@ -1,0 +1,15 @@
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\bin\Debug\net5.0\6TriplesofLatinLetters.exe
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\bin\Debug\net5.0\6TriplesofLatinLetters.deps.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\bin\Debug\net5.0\6TriplesofLatinLetters.runtimeconfig.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\bin\Debug\net5.0\6TriplesofLatinLetters.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\bin\Debug\net5.0\6TriplesofLatinLetters.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\bin\Debug\net5.0\ref\6TriplesofLatinLetters.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\bin\Debug\net5.0\6TriplesofLatinLetters.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\obj\Debug\net5.0\6TriplesofLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\obj\Debug\net5.0\6TriplesofLatinLetters.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\obj\Debug\net5.0\6TriplesofLatinLetters.AssemblyInfo.cs
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\obj\Debug\net5.0\6TriplesofLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\obj\Debug\net5.0\6TriplesofLatinLetters.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\obj\Debug\net5.0\ref\6TriplesofLatinLetters.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\obj\Debug\net5.0\6TriplesofLatinLetters.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6TriplesofLatinLetters\obj\Debug\net5.0\6TriplesofLatinLetters.genruntimeconfig.cache

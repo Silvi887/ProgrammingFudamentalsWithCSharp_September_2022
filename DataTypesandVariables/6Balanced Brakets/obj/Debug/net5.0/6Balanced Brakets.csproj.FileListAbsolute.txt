@@ -1,0 +1,15 @@
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\bin\Debug\net5.0\6Balanced Brakets.exe
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\bin\Debug\net5.0\6Balanced Brakets.deps.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\bin\Debug\net5.0\6Balanced Brakets.runtimeconfig.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\bin\Debug\net5.0\6Balanced Brakets.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\bin\Debug\net5.0\6Balanced Brakets.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\bin\Debug\net5.0\ref\6Balanced Brakets.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\bin\Debug\net5.0\6Balanced Brakets.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\obj\Debug\net5.0\6Balanced Brakets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\obj\Debug\net5.0\6Balanced Brakets.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\obj\Debug\net5.0\6Balanced Brakets.AssemblyInfo.cs
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\obj\Debug\net5.0\6Balanced Brakets.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\obj\Debug\net5.0\6Balanced Brakets.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\obj\Debug\net5.0\ref\6Balanced Brakets.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\obj\Debug\net5.0\6Balanced Brakets.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\DataTypesandVariables\6Balanced Brakets\obj\Debug\net5.0\6Balanced Brakets.genruntimeconfig.cache
