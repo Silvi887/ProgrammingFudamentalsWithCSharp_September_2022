@@ -1,0 +1,16 @@
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\bin\Debug\net5.0\MethodsEx.exe
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\bin\Debug\net5.0\MethodsEx.deps.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\bin\Debug\net5.0\MethodsEx.runtimeconfig.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\bin\Debug\net5.0\MethodsEx.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\bin\Debug\net5.0\MethodsEx.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\bin\Debug\net5.0\ref\MethodsEx.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\bin\Debug\net5.0\MethodsEx.pdb
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\obj\Debug\net5.0\MethodsEx.csprojAssemblyReference.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\obj\Debug\net5.0\MethodsEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\obj\Debug\net5.0\MethodsEx.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\obj\Debug\net5.0\MethodsEx.AssemblyInfo.cs
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\obj\Debug\net5.0\MethodsEx.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\obj\Debug\net5.0\MethodsEx.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\obj\Debug\net5.0\ref\MethodsEx.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\obj\Debug\net5.0\MethodsEx.pdb
+C:\Users\Kabakchievasb\source\repos\MethodsEx\MethodsEx\obj\Debug\net5.0\MethodsEx.genruntimeconfig.cache

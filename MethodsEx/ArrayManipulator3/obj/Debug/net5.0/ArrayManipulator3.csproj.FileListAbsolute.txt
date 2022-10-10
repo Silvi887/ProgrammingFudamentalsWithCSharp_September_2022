@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\bin\Debug\net5.0\ArrayManipulator3.exe
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\bin\Debug\net5.0\ArrayManipulator3.deps.json
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\bin\Debug\net5.0\ArrayManipulator3.runtimeconfig.json
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\bin\Debug\net5.0\ArrayManipulator3.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\bin\Debug\net5.0\ArrayManipulator3.dll
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\bin\Debug\net5.0\ArrayManipulator3.pdb
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\obj\Debug\net5.0\ArrayManipulator3.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\obj\Debug\net5.0\ArrayManipulator3.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\obj\Debug\net5.0\ArrayManipulator3.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\obj\Debug\net5.0\ArrayManipulator3.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\obj\Debug\net5.0\ArrayManipulator3.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\obj\Debug\net5.0\ArrayManipulator3.dll
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\obj\Debug\net5.0\refint\ArrayManipulator3.dll
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\obj\Debug\net5.0\ArrayManipulator3.pdb
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\obj\Debug\net5.0\ArrayManipulator3.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\ArrayManipulator3\obj\Debug\net5.0\ref\ArrayManipulator3.dll

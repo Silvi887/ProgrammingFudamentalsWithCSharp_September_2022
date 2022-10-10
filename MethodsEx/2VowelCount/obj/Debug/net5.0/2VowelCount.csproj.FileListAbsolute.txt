@@ -1,0 +1,16 @@
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\bin\Debug\net5.0\2VowelCount.exe
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\bin\Debug\net5.0\2VowelCount.deps.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\bin\Debug\net5.0\2VowelCount.runtimeconfig.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\bin\Debug\net5.0\2VowelCount.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\bin\Debug\net5.0\2VowelCount.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\bin\Debug\net5.0\ref\2VowelCount.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\bin\Debug\net5.0\2VowelCount.pdb
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\obj\Debug\net5.0\2VowelCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\obj\Debug\net5.0\2VowelCount.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\obj\Debug\net5.0\2VowelCount.AssemblyInfo.cs
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\obj\Debug\net5.0\2VowelCount.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\obj\Debug\net5.0\2VowelCount.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\obj\Debug\net5.0\ref\2VowelCount.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\obj\Debug\net5.0\2VowelCount.pdb
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\obj\Debug\net5.0\2VowelCount.genruntimeconfig.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\2VowelCount\obj\Debug\net5.0\2VowelCount.csprojAssemblyReference.cache

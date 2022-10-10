@@ -1,0 +1,15 @@
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\bin\Debug\net5.0\7NNMatrix.exe
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\bin\Debug\net5.0\7NNMatrix.deps.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\bin\Debug\net5.0\7NNMatrix.runtimeconfig.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\bin\Debug\net5.0\7NNMatrix.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\bin\Debug\net5.0\7NNMatrix.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\bin\Debug\net5.0\ref\7NNMatrix.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\bin\Debug\net5.0\7NNMatrix.pdb
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\obj\Debug\net5.0\7NNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\obj\Debug\net5.0\7NNMatrix.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\obj\Debug\net5.0\7NNMatrix.AssemblyInfo.cs
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\obj\Debug\net5.0\7NNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\obj\Debug\net5.0\7NNMatrix.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\obj\Debug\net5.0\ref\7NNMatrix.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\obj\Debug\net5.0\7NNMatrix.pdb
+C:\Users\Kabakchievasb\source\repos\MethodsEx\7NNMatrix\obj\Debug\net5.0\7NNMatrix.genruntimeconfig.cache

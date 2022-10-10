@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\bin\Debug\net5.0\9Palindrome.exe
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\bin\Debug\net5.0\9Palindrome.deps.json
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\bin\Debug\net5.0\9Palindrome.runtimeconfig.json
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\bin\Debug\net5.0\9Palindrome.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\bin\Debug\net5.0\9Palindrome.dll
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\bin\Debug\net5.0\9Palindrome.pdb
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\obj\Debug\net5.0\9Palindrome.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\obj\Debug\net5.0\9Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\obj\Debug\net5.0\9Palindrome.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\obj\Debug\net5.0\9Palindrome.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\obj\Debug\net5.0\9Palindrome.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\obj\Debug\net5.0\9Palindrome.dll
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\obj\Debug\net5.0\refint\9Palindrome.dll
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\obj\Debug\net5.0\9Palindrome.pdb
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\obj\Debug\net5.0\9Palindrome.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\MethodsEx1\MethodsEx\9Palindrome\obj\Debug\net5.0\ref\9Palindrome.dll

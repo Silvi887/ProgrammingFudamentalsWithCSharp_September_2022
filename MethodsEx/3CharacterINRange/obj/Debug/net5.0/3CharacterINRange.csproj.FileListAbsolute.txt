@@ -1,0 +1,16 @@
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\obj\Debug\net5.0\3CharacterINRange.csprojAssemblyReference.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\obj\Debug\net5.0\3CharacterINRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\obj\Debug\net5.0\3CharacterINRange.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\obj\Debug\net5.0\3CharacterINRange.AssemblyInfo.cs
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\obj\Debug\net5.0\3CharacterINRange.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\bin\Debug\net5.0\3CharacterINRange.exe
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\bin\Debug\net5.0\3CharacterINRange.deps.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\bin\Debug\net5.0\3CharacterINRange.runtimeconfig.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\bin\Debug\net5.0\3CharacterINRange.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\bin\Debug\net5.0\3CharacterINRange.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\bin\Debug\net5.0\ref\3CharacterINRange.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\bin\Debug\net5.0\3CharacterINRange.pdb
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\obj\Debug\net5.0\3CharacterINRange.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\obj\Debug\net5.0\ref\3CharacterINRange.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\obj\Debug\net5.0\3CharacterINRange.pdb
+C:\Users\Kabakchievasb\source\repos\MethodsEx\3CharacterINRange\obj\Debug\net5.0\3CharacterINRange.genruntimeconfig.cache

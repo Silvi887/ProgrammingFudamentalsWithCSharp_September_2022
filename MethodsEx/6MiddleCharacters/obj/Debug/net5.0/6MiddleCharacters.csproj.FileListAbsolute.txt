@@ -1,0 +1,16 @@
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\bin\Debug\net5.0\6MiddleCharacters.exe
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\bin\Debug\net5.0\6MiddleCharacters.deps.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\bin\Debug\net5.0\6MiddleCharacters.runtimeconfig.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\bin\Debug\net5.0\6MiddleCharacters.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\bin\Debug\net5.0\6MiddleCharacters.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\bin\Debug\net5.0\ref\6MiddleCharacters.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\bin\Debug\net5.0\6MiddleCharacters.pdb
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\obj\Debug\net5.0\6MiddleCharacters.csprojAssemblyReference.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\obj\Debug\net5.0\6MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\obj\Debug\net5.0\6MiddleCharacters.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\obj\Debug\net5.0\6MiddleCharacters.AssemblyInfo.cs
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\obj\Debug\net5.0\6MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\obj\Debug\net5.0\6MiddleCharacters.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\obj\Debug\net5.0\ref\6MiddleCharacters.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\obj\Debug\net5.0\6MiddleCharacters.pdb
+C:\Users\Kabakchievasb\source\repos\MethodsEx\6MiddleCharacters\obj\Debug\net5.0\6MiddleCharacters.genruntimeconfig.cache

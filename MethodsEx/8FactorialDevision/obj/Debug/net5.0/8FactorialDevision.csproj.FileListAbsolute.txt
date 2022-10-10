@@ -1,0 +1,16 @@
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\bin\Debug\net5.0\8FactorialDevision.exe
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\bin\Debug\net5.0\8FactorialDevision.deps.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\bin\Debug\net5.0\8FactorialDevision.runtimeconfig.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\bin\Debug\net5.0\8FactorialDevision.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\bin\Debug\net5.0\8FactorialDevision.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\bin\Debug\net5.0\ref\8FactorialDevision.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\bin\Debug\net5.0\8FactorialDevision.pdb
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\obj\Debug\net5.0\8FactorialDevision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\obj\Debug\net5.0\8FactorialDevision.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\obj\Debug\net5.0\8FactorialDevision.AssemblyInfo.cs
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\obj\Debug\net5.0\8FactorialDevision.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\obj\Debug\net5.0\8FactorialDevision.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\obj\Debug\net5.0\ref\8FactorialDevision.dll
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\obj\Debug\net5.0\8FactorialDevision.pdb
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\obj\Debug\net5.0\8FactorialDevision.genruntimeconfig.cache
+C:\Users\Kabakchievasb\source\repos\MethodsEx\8FactorialDevision\obj\Debug\net5.0\8FactorialDevision.csprojAssemblyReference.cache
