@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\bin\Debug\net5.0\02MirrorWords.exe
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\bin\Debug\net5.0\02MirrorWords.deps.json
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\bin\Debug\net5.0\02MirrorWords.runtimeconfig.json
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\bin\Debug\net5.0\02MirrorWords.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\bin\Debug\net5.0\02MirrorWords.dll
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\bin\Debug\net5.0\02MirrorWords.pdb
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\obj\Debug\net5.0\02MirrorWords.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\obj\Debug\net5.0\02MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\obj\Debug\net5.0\02MirrorWords.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\obj\Debug\net5.0\02MirrorWords.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\obj\Debug\net5.0\02MirrorWords.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\obj\Debug\net5.0\02MirrorWords.dll
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\obj\Debug\net5.0\refint\02MirrorWords.dll
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\obj\Debug\net5.0\02MirrorWords.pdb
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\obj\Debug\net5.0\02MirrorWords.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\03ProgrammingFundamentalsFinalExamRetake\02MirrorWords\obj\Debug\net5.0\ref\02MirrorWords.dll
