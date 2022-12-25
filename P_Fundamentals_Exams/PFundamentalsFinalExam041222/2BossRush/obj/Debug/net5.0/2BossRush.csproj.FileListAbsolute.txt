@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\bin\Debug\net5.0\2BossRush.exe
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\bin\Debug\net5.0\2BossRush.deps.json
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\bin\Debug\net5.0\2BossRush.runtimeconfig.json
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\bin\Debug\net5.0\2BossRush.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\bin\Debug\net5.0\2BossRush.dll
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\bin\Debug\net5.0\2BossRush.pdb
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\obj\Debug\net5.0\2BossRush.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\obj\Debug\net5.0\2BossRush.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\obj\Debug\net5.0\2BossRush.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\obj\Debug\net5.0\2BossRush.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\obj\Debug\net5.0\2BossRush.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\obj\Debug\net5.0\2BossRush.dll
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\obj\Debug\net5.0\refint\2BossRush.dll
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\obj\Debug\net5.0\2BossRush.pdb
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\obj\Debug\net5.0\2BossRush.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\ProgrammingFundamentalsFinalExam120422\2BossRush\obj\Debug\net5.0\ref\2BossRush.dll
