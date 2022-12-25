@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\bin\Debug\net5.0\2AdAstra.exe
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\bin\Debug\net5.0\2AdAstra.deps.json
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\bin\Debug\net5.0\2AdAstra.runtimeconfig.json
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\bin\Debug\net5.0\2AdAstra.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\bin\Debug\net5.0\2AdAstra.dll
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\bin\Debug\net5.0\2AdAstra.pdb
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\obj\Debug\net5.0\2AdAstra.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\obj\Debug\net5.0\2AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\obj\Debug\net5.0\2AdAstra.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\obj\Debug\net5.0\2AdAstra.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\obj\Debug\net5.0\2AdAstra.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\obj\Debug\net5.0\2AdAstra.dll
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\obj\Debug\net5.0\refint\2AdAstra.dll
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\obj\Debug\net5.0\2AdAstra.pdb
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\obj\Debug\net5.0\2AdAstra.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\2AdAstra\obj\Debug\net5.0\ref\2AdAstra.dll

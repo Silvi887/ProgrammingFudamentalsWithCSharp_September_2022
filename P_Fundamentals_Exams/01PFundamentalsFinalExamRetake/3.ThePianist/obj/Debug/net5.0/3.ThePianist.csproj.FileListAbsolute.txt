@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\bin\Debug\net5.0\3.ThePianist.exe
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\bin\Debug\net5.0\3.ThePianist.deps.json
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\bin\Debug\net5.0\3.ThePianist.runtimeconfig.json
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\bin\Debug\net5.0\3.ThePianist.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\bin\Debug\net5.0\3.ThePianist.dll
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\bin\Debug\net5.0\3.ThePianist.pdb
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\obj\Debug\net5.0\3.ThePianist.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\obj\Debug\net5.0\3.ThePianist.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\obj\Debug\net5.0\3.ThePianist.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\obj\Debug\net5.0\3.ThePianist.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\obj\Debug\net5.0\3.ThePianist.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\obj\Debug\net5.0\3.ThePianist.dll
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\obj\Debug\net5.0\refint\3.ThePianist.dll
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\obj\Debug\net5.0\3.ThePianist.pdb
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\obj\Debug\net5.0\3.ThePianist.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\3.ThePianist\obj\Debug\net5.0\ref\3.ThePianist.dll

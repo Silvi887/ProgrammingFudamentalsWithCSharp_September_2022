@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\bin\Debug\net5.0\1TheImitationGame.exe
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\bin\Debug\net5.0\1TheImitationGame.deps.json
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\bin\Debug\net5.0\1TheImitationGame.runtimeconfig.json
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\bin\Debug\net5.0\1TheImitationGame.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\bin\Debug\net5.0\1TheImitationGame.dll
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\bin\Debug\net5.0\1TheImitationGame.pdb
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\obj\Debug\net5.0\1TheImitationGame.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\obj\Debug\net5.0\1TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\obj\Debug\net5.0\1TheImitationGame.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\obj\Debug\net5.0\1TheImitationGame.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\obj\Debug\net5.0\1TheImitationGame.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\obj\Debug\net5.0\1TheImitationGame.dll
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\obj\Debug\net5.0\refint\1TheImitationGame.dll
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\obj\Debug\net5.0\1TheImitationGame.pdb
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\obj\Debug\net5.0\1TheImitationGame.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\01Programming FundamentalsFinalExamRetake\1TheImitationGame\obj\Debug\net5.0\ref\1TheImitationGame.dll
