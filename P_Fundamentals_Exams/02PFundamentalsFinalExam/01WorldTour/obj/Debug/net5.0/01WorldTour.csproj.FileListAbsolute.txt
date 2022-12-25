@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\bin\Debug\net5.0\01WorldTour.exe
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\bin\Debug\net5.0\01WorldTour.deps.json
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\bin\Debug\net5.0\01WorldTour.runtimeconfig.json
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\bin\Debug\net5.0\01WorldTour.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\bin\Debug\net5.0\01WorldTour.dll
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\bin\Debug\net5.0\01WorldTour.pdb
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\obj\Debug\net5.0\01WorldTour.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\obj\Debug\net5.0\01WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\obj\Debug\net5.0\01WorldTour.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\obj\Debug\net5.0\01WorldTour.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\obj\Debug\net5.0\01WorldTour.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\obj\Debug\net5.0\01WorldTour.dll
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\obj\Debug\net5.0\ref\01WorldTour.dll
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\obj\Debug\net5.0\01WorldTour.pdb
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\obj\Debug\net5.0\01WorldTour.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\01WorldTour\obj\Debug\net5.0\refint\01WorldTour.dll

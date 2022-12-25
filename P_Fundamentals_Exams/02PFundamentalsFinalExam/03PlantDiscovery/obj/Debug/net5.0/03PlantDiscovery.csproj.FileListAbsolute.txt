@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\bin\Debug\net5.0\03PlantDiscovery.exe
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\bin\Debug\net5.0\03PlantDiscovery.deps.json
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\bin\Debug\net5.0\03PlantDiscovery.runtimeconfig.json
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\bin\Debug\net5.0\03PlantDiscovery.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\bin\Debug\net5.0\03PlantDiscovery.dll
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\bin\Debug\net5.0\03PlantDiscovery.pdb
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\obj\Debug\net5.0\03PlantDiscovery.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\obj\Debug\net5.0\03PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\obj\Debug\net5.0\03PlantDiscovery.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\obj\Debug\net5.0\03PlantDiscovery.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\obj\Debug\net5.0\03PlantDiscovery.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\obj\Debug\net5.0\03PlantDiscovery.dll
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\obj\Debug\net5.0\refint\03PlantDiscovery.dll
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\obj\Debug\net5.0\03PlantDiscovery.pdb
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\obj\Debug\net5.0\03PlantDiscovery.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\02ProgrammingFundamentalsFinalExam\03PlantDiscovery\obj\Debug\net5.0\ref\03PlantDiscovery.dll
