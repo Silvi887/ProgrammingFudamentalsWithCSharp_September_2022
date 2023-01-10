@@ -1,0 +1,16 @@
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\bin\Debug\net5.0\02FancyBarcodes.exe
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\bin\Debug\net5.0\02FancyBarcodes.deps.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\bin\Debug\net5.0\02FancyBarcodes.runtimeconfig.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\bin\Debug\net5.0\02FancyBarcodes.runtimeconfig.dev.json
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\bin\Debug\net5.0\02FancyBarcodes.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\bin\Debug\net5.0\ref\02FancyBarcodes.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\bin\Debug\net5.0\02FancyBarcodes.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\obj\Debug\net5.0\02FancyBarcodes.csprojAssemblyReference.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\obj\Debug\net5.0\02FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\obj\Debug\net5.0\02FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\obj\Debug\net5.0\02FancyBarcodes.AssemblyInfo.cs
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\obj\Debug\net5.0\02FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\obj\Debug\net5.0\02FancyBarcodes.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\obj\Debug\net5.0\ref\02FancyBarcodes.dll
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\obj\Debug\net5.0\02FancyBarcodes.pdb
+C:\Users\Kabakchievasb\ProjectsC#_2022\04ProgrammingFundamentalsFinalExam\02FancyBarcodes\obj\Debug\net5.0\02FancyBarcodes.genruntimeconfig.cache
